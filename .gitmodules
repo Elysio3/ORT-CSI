@@ -1,0 +1,9 @@
+[submodule "DeveloppementMobileTP2"]
+	path = DeveloppementMobileTP2
+	url = https://github.com/Elysio3/DeveloppementMobileTP2
+[submodule "JavaEE"]
+	path = JavaEE
+	url = https://github.com/Elysio3/JavaEE
+[submodule "CSI-SIte-SPA"]
+	path = CSI-SIte-SPA
+	url = https://github.com/Elysio3/CSI-SIte-SPA
